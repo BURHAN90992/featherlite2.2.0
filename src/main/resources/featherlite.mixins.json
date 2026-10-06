@@ -1,0 +1,12 @@
+{
+  "required": false,
+  "package": "com.featherlite.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "CameraMixin",
+    "EntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 0
+  }
+}
